@@ -1,5 +1,5 @@
 {
-	"name": "aimeos/ai-gettext",
+	"name": "buyingsquare/buyingsquare-ext-gettext",
 	"description": "Aimeos Gettext extension",
 	"keywords": ["aimeos", "extension", "gettext", "performance"],
 	"homepage": "https://aimeos.org/",
@@ -16,7 +16,7 @@
 	"require": {
 		"php": "~7.1",
 		"composer/installers": "^1.0",
-		"aimeos/aimeos-core": "dev-master"
+		"buyingsquare/commerce-core": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~7.0||~8.0"
