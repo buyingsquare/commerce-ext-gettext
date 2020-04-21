@@ -1,5 +1,5 @@
 {
-	"name": "buyingsquare/buyingsquare-ext-gettext",
+	"name": "buyingsquare/commerce-ext-gettext",
 	"description": "Aimeos Gettext extension",
 	"keywords": ["aimeos", "extension", "gettext", "performance"],
 	"homepage": "https://aimeos.org/",
